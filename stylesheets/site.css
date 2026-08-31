@@ -23,6 +23,17 @@ body {
   align-items: center;
   justify-content: start; }
 
+.site-content.article {
+  align-items: stretch;
+  text-align: left; }
+
+.article section {
+  margin-bottom: 0.5rem; }
+
+.article h2 {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem; }
+
 .site-footer {
   text-align: center;
   padding: 1rem 0;
