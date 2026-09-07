@@ -42,7 +42,7 @@ body {
 .container {
   max-width: 600px;
   margin: 0 auto;
-  padding: 3rem 1rem; }
+  padding: 1rem 1rem; }
 
 h1 {
   font-weight: 700;
@@ -91,3 +91,12 @@ footer {
   transition: color 0.2s ease; }
   .contact-link:hover {
     text-decoration: none; }
+
+.contact-form-wrapper {
+  width: 100%; }
+
+.formspree-contact-form {
+  width: 100%; }
+
+.thank-you {
+  font-weight: 500; }
